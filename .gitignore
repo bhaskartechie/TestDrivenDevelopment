@@ -1,2 +1,7 @@
 # Ignore python virtual environment
 virEnv
+
+superlist/__pycache__
+*.pyc
+superlist/db.sqlite3
+geckodriver.log
